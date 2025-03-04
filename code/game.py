@@ -6,4 +6,4 @@ class Game:
         self.window = None
 
     def run(self, ):
-        pass
+        pass 
